@@ -8,7 +8,7 @@
  4. Git push
 
 > No me quiero ir por las ramas
-> > Sergie Code
+> > Curso hecho por Sergie Code
 > 
 |Git Fetch| Git Pull |
 |--|--|
